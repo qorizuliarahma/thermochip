@@ -6,7 +6,7 @@ Simulasi CP-01 dengan material sesuai rancangan, dijalankan 1 November 2026. Rin
 
 | Item | Pengaturan |
 | --- | --- |
-| Perangkat lunak | Autodesk CFD 2027 (versi 27.0.69), skema adveksi ADV 5 |
+| Perangkat lunak | Autodesk CFD, skema adveksi ADV 5 |
 | Analisis | Tunak, laminar, inkompresibel, perpindahan panas terkonjugasi; gravitasi dan radiasi tidak aktif |
 | Geometri | Pelat 60 × 60 × 7 mm, area kanal 40 × 40 mm, 26 kanal (w 1,0 mm, t 0,5 mm, H 3,0 mm), port Ø6 mm susunan Z, die 30 × 30 mm |
 | Part1.Body1 (fluida) | Water pustaka Autodesk CFD: μ 1,003 mPa·s, c_p 4.182 J/kg·K, k 0,6 W/m·K, densitas bergantung temperatur |
