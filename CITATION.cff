@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Jika memakai kode ini, mohon sitasi sebagai berikut."
+title: "ThermoChip: kode integrasi CFD dan machine learning untuk desain cold plate chip semikonduktor"
+version: 1.2.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/qorizuliarahma/thermochip"
+authors:
+  - family-names: Rahma
+    given-names: Qori Zulia
+    affiliation: Universitas Pendidikan Indonesia
+  - family-names: Atthoriq
+    given-names: Muhammad Rafi
+    affiliation: Universitas Pendidikan Indonesia
+  - family-names: Setiawan
+    given-names: Agus
+    affiliation: Universitas Pendidikan Indonesia
+keywords: [CFD, machine learning, cold plate, semiconductor, data center, Gaussian process, SHAP]

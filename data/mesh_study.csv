@@ -1,0 +1,7 @@
+quantity,mesh,n_cells,total_volume_m3,value
+T_max,halus,,,
+T_max,sedang,,,
+T_max,kasar,,,
+dP,halus,,,
+dP,sedang,,,
+dP,kasar,,,
